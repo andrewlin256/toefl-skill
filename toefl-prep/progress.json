@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T15:26:42.456402",
-  "total_study_minutes": 30,
+  "last_updated": "2026-09-15T16:00:58.882627",
+  "total_study_minutes": 33,
   "streak_days": 1,
   "longest_streak": 1,
   "baseline_scores": {
@@ -96,6 +96,13 @@
       "day": 1,
       "minutes": 30,
       "completed": true
+    },
+    {
+      "date": "2026-09-15",
+      "minutes": 3,
+      "section": "speaking",
+      "score": null,
+      "note": "Free-talk: recap of the day (~640 words, unscripted). Strong: chronological organization, technical vocabulary, passive voice, self-correction (go->went). Needs work: heavy filler density, inconsistent tense (present used for past narrative), reported-speech structure, a few prepositions/word choices."
     }
   ]
 }
