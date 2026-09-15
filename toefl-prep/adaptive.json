@@ -1,20 +1,20 @@
 {
-  "generated": "2026-09-15T14:01:53.214093",
+  "generated": "2026-09-15T15:27:00.077075",
   "section_weights": {
-    "reading": 0.1,
-    "listening": 0.3,
-    "speaking": 0.3,
-    "writing": 0.3
+    "reading": 0.125,
+    "listening": 0.125,
+    "speaking": 0.375,
+    "writing": 0.375
   },
   "time_allocation": {
-    "reading": 5,
-    "listening": 12,
-    "speaking": 14,
-    "writing": 14
+    "reading": 6,
+    "listening": 6,
+    "speaking": 16,
+    "writing": 17
   },
   "difficulty_levels": {
     "reading": 4,
-    "listening": 2,
+    "listening": 4,
     "speaking": 3,
     "writing": 3
   },
