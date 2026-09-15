@@ -4,17 +4,17 @@
   "streak_days": 0,
   "longest_streak": 0,
   "baseline_scores": {
-    "reading": null,
+    "reading": 4.5,
     "listening": null,
-    "speaking": null,
-    "writing": null,
+    "speaking": 3.5,
+    "writing": 3.5,
     "total": null
   },
   "latest_scores": {
-    "reading": null,
+    "reading": 4.5,
     "listening": null,
-    "speaking": null,
-    "writing": null,
+    "speaking": 3.5,
+    "writing": 3.5,
     "total": null
   },
   "mock_tests": [],
@@ -73,5 +73,13 @@
     "total_reviewed": 0,
     "words_due_today": 0
   },
-  "daily_log": []
+  "daily_log": [
+    {
+      "date": "2026-09-15",
+      "minutes": 20,
+      "section": "diagnostic",
+      "score": null,
+      "note": "診斷測驗完成：Reading 4/4 (Q5 skipped), Writing sentence 0/1, Writing email ~3/5, Speaking interview ~3/5 avg. Listening not yet tested."
+    }
+  ]
 }

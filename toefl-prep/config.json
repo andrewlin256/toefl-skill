@@ -17,7 +17,7 @@
   "tts_voice": "en-US-AriaNeural",
   "anki_new_cards_per_day": 20,
   "initialized": true,
-  "diagnostic_completed": false,
+  "diagnostic_completed": true,
   "phase_schedule": {
     "foundation": {
       "start": 1,
