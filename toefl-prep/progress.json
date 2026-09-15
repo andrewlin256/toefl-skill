@@ -1,23 +1,32 @@
 {
-  "last_updated": "2026-09-15T13:58:59.211583",
+  "last_updated": "2026-09-15T15:26:42.456402",
   "total_study_minutes": 30,
   "streak_days": 1,
   "longest_streak": 1,
   "baseline_scores": {
     "reading": 4.5,
-    "listening": null,
+    "listening": 4.5,
     "speaking": 3.5,
     "writing": 3.5,
-    "total": null
+    "total": 4.0
   },
   "latest_scores": {
     "reading": 4.5,
-    "listening": null,
+    "listening": 4.5,
     "speaking": 3.5,
     "writing": 3.5,
-    "total": null
+    "total": 4.0
   },
-  "mock_tests": [],
+  "mock_tests": [
+    {
+      "date": "2026-09-15",
+      "reading": 4.5,
+      "listening": 4.5,
+      "speaking": 3.5,
+      "writing": 3.5,
+      "total": 4.0
+    }
+  ],
   "weekly_completion": {
     "week-01": {
       "completed": 1,
@@ -79,7 +88,7 @@
       "minutes": 20,
       "section": "diagnostic",
       "score": null,
-      "note": "診斷測驗完成：Reading 5/5, Writing sentence 0/1, Writing email ~3/5, Speaking interview ~3/5 avg. Listening not yet tested."
+      "note": "診斷測驗完成：Reading 5/5, Writing sentence 0/1, Writing email ~3/5, Speaking interview ~3/5 avg, Listening 13/13 (1 question missed by Claude's error). Baseline total 4.0/5.0."
     },
     {
       "date": "2026-09-15",
