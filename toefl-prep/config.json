@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "created": "2026-09-15T07:01:44.912286",
+  "target_score": 5.0,
+  "exam_date": "",
+  "daily_minutes": 30,
+  "total_weeks": 12,
+  "current_week": 1,
+  "current_day": 1,
+  "self_level": "unknown",
+  "weak_areas": [
+    "speaking",
+    "writing"
+  ],
+  "language": "zh-TW",
+  "tts_engine": "edge-tts",
+  "tts_voice": "en-US-AriaNeural",
+  "anki_new_cards_per_day": 20,
+  "initialized": true,
+  "diagnostic_completed": false,
+  "phase_schedule": {
+    "foundation": {
+      "start": 1,
+      "end": 4
+    },
+    "intensive": {
+      "start": 5,
+      "end": 8
+    },
+    "sprint": {
+      "start": 9,
+      "end": 12
+    }
+  }
+}

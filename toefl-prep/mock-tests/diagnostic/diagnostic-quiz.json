@@ -1,0 +1,90 @@
+{
+  "title": "TOEFL 2026 診斷測驗",
+  "instructions": "這不是正式模擬考，而是快速評估你的起始程度。每科 5 題，約 15-20 分鐘。",
+  "sections": {
+    "reading": {
+      "description": "閱讀理解（5 題）",
+      "questions": [
+        {
+          "type": "complete_words",
+          "prompt": "The researcher's hyp_th_sis was supported by the experimental data.",
+          "answer": "hypothesis",
+          "explanation": "hypothesis = 假說。注意 y 和 e 的位置。"
+        },
+        {
+          "type": "complete_words",
+          "prompt": "Environmental sust__n_bility requires both individual and collective action.",
+          "answer": "sustainability",
+          "explanation": "sustainability = 永續性。注意 ai 和 a 的位置。"
+        },
+        {
+          "type": "daily_life",
+          "prompt": "Email: 'Hi Alex, The study group for Biology 101 will meet this Thursday at 3 PM in Room 204 instead of our usual time on Wednesday. Please bring your lab notes. — Sarah'",
+          "question": "What change is Sarah informing Alex about?",
+          "options": [
+            "A. The room number",
+            "B. The meeting day and time",
+            "C. The subject being studied",
+            "D. Who will attend"
+          ],
+          "answer": "B"
+        },
+        {
+          "type": "academic",
+          "passage": "Coral reefs, often called the rainforests of the sea, support approximately 25 percent of all marine species despite covering less than one percent of the ocean floor. Rising ocean temperatures cause coral bleaching, a process in which corals expel the algae living in their tissues. Without these algae, corals lose their color and their primary food source.",
+          "question": "What is the main cause of coral bleaching according to the passage?",
+          "options": [
+            "A. Ocean pollution",
+            "B. Overfishing",
+            "C. Rising water temperatures",
+            "D. Reduced sunlight"
+          ],
+          "answer": "C"
+        },
+        {
+          "type": "academic",
+          "passage": "Coral reefs, often called the rainforests of the sea, support approximately 25 percent of all marine species despite covering less than one percent of the ocean floor. Rising ocean temperatures cause coral bleaching, a process in which corals expel the algae living in their tissues. Without these algae, corals lose their color and their primary food source.",
+          "question": "The phrase 'rainforests of the sea' is used to emphasize:",
+          "options": [
+            "A. Coral reefs are located near tropical forests",
+            "B. Coral reefs have high biodiversity",
+            "C. Coral reefs are endangered",
+            "D. Coral reefs are very large"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    "writing": {
+      "description": "寫作能力（2 題）",
+      "questions": [
+        {
+          "type": "build_a_sentence",
+          "prompt": "Arrange these words into a correct sentence: [wanted / she / which / to / know / I'm / colleges / considering]",
+          "answer": "She wanted to know which colleges I'm considering."
+        },
+        {
+          "type": "email",
+          "prompt": "You ordered a laptop online, but it arrived with a cracked screen. Write an email to customer service to: (1) Describe the problem, (2) Explain how it affects you, (3) Request a solution.",
+          "time_limit": "7 minutes",
+          "rubric": "See scoring-rubrics.md — Email section"
+        }
+      ]
+    },
+    "speaking": {
+      "description": "口說能力（2 題）— 請錄音或打字回答",
+      "questions": [
+        {
+          "type": "interview",
+          "prompt": "Think about a teacher who had a significant impact on you. Who was this teacher, and why did they influence you?",
+          "time_limit": "45 seconds"
+        },
+        {
+          "type": "interview",
+          "prompt": "Some people prefer to study alone, while others prefer to study in groups. Which do you prefer, and why?",
+          "time_limit": "45 seconds"
+        }
+      ]
+    }
+  }
+}
