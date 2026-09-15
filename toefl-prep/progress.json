@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-15T07:01:44.902750",
-  "total_study_minutes": 0,
-  "streak_days": 0,
-  "longest_streak": 0,
+  "last_updated": "2026-09-15T13:58:59.211583",
+  "total_study_minutes": 30,
+  "streak_days": 1,
+  "longest_streak": 1,
   "baseline_scores": {
     "reading": 4.5,
     "listening": null,
@@ -20,7 +20,7 @@
   "mock_tests": [],
   "weekly_completion": {
     "week-01": {
-      "completed": 0,
+      "completed": 1,
       "total": 6
     },
     "week-02": {
@@ -80,6 +80,13 @@
       "section": "diagnostic",
       "score": null,
       "note": "診斷測驗完成：Reading 5/5, Writing sentence 0/1, Writing email ~3/5, Speaking interview ~3/5 avg. Listening not yet tested."
+    },
+    {
+      "date": "2026-09-15",
+      "week": 1,
+      "day": 1,
+      "minutes": 30,
+      "completed": true
     }
   ]
 }
