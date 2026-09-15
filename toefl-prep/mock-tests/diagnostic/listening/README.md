@@ -14,7 +14,7 @@
 | Part 4 | Academic Talk | 96 秒 | 3 |
 
 每個資料夾內：
-- `audio.mp3` — 音檔（先聽這個）
+- `<part 名稱>.mp3` — 音檔（先聽這個）
 - `questions.md` — 題目
 - `spoilers/` — 答案與逐字稿，**作答完再打開**
 

@@ -1,6 +1,6 @@
 # Part 1 — Choose a Response
 
-聽完每段陳述後，選出最自然的回應。音檔：`audio.mp3`
+聽完每段陳述後，選出最自然的回應。音檔：`part1-choose-response.mp3`
 
 ## 1. (難度 ⭐)
 
