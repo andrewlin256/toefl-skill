@@ -1,0 +1,29 @@
+{
+  "generated": "2026-09-15T14:01:53.214093",
+  "section_weights": {
+    "reading": 0.1,
+    "listening": 0.3,
+    "speaking": 0.3,
+    "writing": 0.3
+  },
+  "time_allocation": {
+    "reading": 5,
+    "listening": 12,
+    "speaking": 14,
+    "writing": 14
+  },
+  "difficulty_levels": {
+    "reading": 4,
+    "listening": 2,
+    "speaking": 3,
+    "writing": 3
+  },
+  "trends": {
+    "reading": "unknown",
+    "listening": "unknown",
+    "speaking": "unknown",
+    "writing": "unknown"
+  },
+  "weakest_section": "speaking",
+  "strongest_section": "reading"
+}
