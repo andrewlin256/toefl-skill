@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T15:52:22.287902",
-  "total_study_minutes": 78,
+  "last_updated": "2026-09-16T16:03:32.804045",
+  "total_study_minutes": 81,
   "streak_days": 2,
   "longest_streak": 2,
   "baseline_scores": {
@@ -111,6 +111,13 @@
       "minutes": 45,
       "completed": true,
       "note": "Vocab: 4/4 sentences correct incl. derived forms. Speaking Interview (4Q) ~3.5/5: richer multi-reason answers than diagnostic, but same causative-verb error (make/let/have + to-infinitive) repeated 3x across different answers -- clear priority fix. Writing Academic Discussion ~4/5: original arguments beyond the prompt, subject-verb agreement errors (courses vs students as subject)."
+    },
+    {
+      "date": "2026-09-16",
+      "minutes": 3,
+      "section": "speaking",
+      "score": null,
+      "note": "Free-talk #2: lab meeting + research recap. Clear improvement on tense consistency (the #1 flagged issue) -- mostly correct past tense throughout, with two live self-corrections (conduct->conducted, think->thought). The causative-verb pattern (make/let/have + to-infinitive) recurred once ('made me found out'), confirming it needs dedicated drilling. New minor errors: progress collocation, finish+gerund, discuss+preposition, comparative word order."
     }
   ]
 }
