@@ -31,5 +31,7 @@
       "start": 9,
       "end": 12
     }
-  }
+  },
+  "adaptive_enabled": true,
+  "last_rebalance": "2026-09-16T00:15:53.661756"
 }

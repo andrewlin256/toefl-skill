@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T15:27:00.077075",
+  "generated": "2026-09-16T00:15:53.661501",
   "section_weights": {
     "reading": 0.125,
     "listening": 0.125,
@@ -18,12 +18,21 @@
     "speaking": 3,
     "writing": 3
   },
-  "trends": {
-    "reading": "unknown",
-    "listening": "unknown",
-    "speaking": "unknown",
-    "writing": "unknown"
-  },
-  "weakest_section": "speaking",
-  "strongest_section": "reading"
+  "priority_order": [
+    "speaking",
+    "writing",
+    "reading",
+    "listening"
+  ],
+  "daily_template": {
+    "vocabulary": 5,
+    "primary": {
+      "section": "speaking",
+      "minutes": 24
+    },
+    "secondary": {
+      "section": "writing",
+      "minutes": 16
+    }
+  }
 }

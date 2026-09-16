@@ -1,0 +1,10 @@
+{
+  "theme": "Learning and Education",
+  "intro": "You have volunteered for a research study about education. You will have a short online interview with a researcher.",
+  "questions": [
+    "Think about the most effective teacher you've had. What made them stand out?",
+    "Do you learn better by reading, listening, or doing things hands-on? Give an example.",
+    "Some people think online learning is just as effective as in-person classes. What's your view?",
+    "If you could study any subject without worrying about career prospects, what would you choose and why?"
+  ]
+}
