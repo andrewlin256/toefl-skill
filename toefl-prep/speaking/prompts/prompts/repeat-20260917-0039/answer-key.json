@@ -1,0 +1,47 @@
+{
+  "context": "Campus Tour Guide",
+  "sentences": [
+    {
+      "index": 1,
+      "text": "Welcome to the main campus.",
+      "difficulty": 1,
+      "seconds": 8
+    },
+    {
+      "index": 2,
+      "text": "The bookstore is on your left.",
+      "difficulty": 1,
+      "seconds": 8
+    },
+    {
+      "index": 3,
+      "text": "You can pick up your student ID at the front desk.",
+      "difficulty": 2,
+      "seconds": 10
+    },
+    {
+      "index": 4,
+      "text": "The dining hall serves breakfast from seven to nine thirty.",
+      "difficulty": 2,
+      "seconds": 10
+    },
+    {
+      "index": 5,
+      "text": "Students with meal plans can eat at any of the three cafeterias on campus.",
+      "difficulty": 3,
+      "seconds": 10
+    },
+    {
+      "index": 6,
+      "text": "If you need to print documents, the computer lab on the second floor has color printers available.",
+      "difficulty": 3,
+      "seconds": 12
+    },
+    {
+      "index": 7,
+      "text": "The recreation center offers free fitness classes for all registered students throughout the semester.",
+      "difficulty": 4,
+      "seconds": 12
+    }
+  ]
+}
